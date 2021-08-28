@@ -1,0 +1,134 @@
+{
+    "specsShowCaseData": [
+        {
+            "specName": "Emission Norm Compliance",
+            "specValue": "BS VI"
+        },
+        {
+            "specName": "Transmission",
+            "specValue": "Automatic"
+        },
+        {
+            "specName": "Boot Space",
+            "specValue": "433 Liters"
+        },
+        {
+            "specName": "Airbags",
+            "specValue": "Driver, Passenger and Side Front"
+        },
+        {
+            "specName": "Fog Lamps",
+            "specValue": "Front"
+        },
+        {
+            "specName": "Mileage",
+            "specValue": "17.8 Kmpl"
+        },
+        {
+            "specName": "Engine Displ.",
+            "specValue": "1493 cc"
+        },
+        {
+            "specName": "Fuel Type",
+            "specValue": "Diesel"
+        },
+        {
+            "specName": "Power Windows",
+            "specValue": "Front and Rear"
+        },
+        {
+            "specName": "ABS",
+            "specValue": "Yes"
+        },
+        {
+            "specName": "Central Locking",
+            "specValue": "Yes"
+        }
+    ],
+    "specsOverviewData": [
+        {
+            "specName": "Engine",
+            "specValue": "998 - 1493 CC"
+        },
+        {
+            "specName": "Fuel Tank Capacity",
+            "specValue": "37 Liters"
+        },
+        {
+            "specName": "Mileage",
+            "specValue": "25.2 Kmpl"
+        },
+        {
+            "specName": "Dimensions",
+            "specValue": "3995*1775*1505 mm^3"
+        }
+    ],
+    "specsFullData": [
+        {
+            "categoryTitle": "Engine",
+            "categoryData": [
+                {
+                    "specName": "Engine Type",
+                    "specValue": "Single Cylinder, 4 Valve, Liquid Cooled, FI, DOHC"
+                },
+                {
+                    "specName": "Max Power",
+                    "specValue": "14.5 PS @ 9250 rpm"
+                },
+                {
+                    "specName": "Max Torque",
+                    "specValue": "12 Nm @ 8000 rpm"
+                },
+                {
+                    "specName": "Stroke",
+                    "specValue": "47.2 mm"
+                },
+                {
+                    "specName": "Drive Type",
+                    "specValue": "Chain Drive"
+                },
+                {
+                    "specName": "Fuel Type",
+                    "specValue": "Petrol"
+                },
+                {
+                    "specName": "Engine Displacement",
+                    "specValue": "124.7 cc"
+                },
+                {
+                    "specName": "Emission Type",
+                    "specValue": "bs6"
+                },
+                {
+                    "specName": "Bore",
+                    "specValue": "58 mm"
+                },
+                {
+                    "specName": "No Of Cylinders",
+                    "specValue": "1"
+                },
+                {
+                    "specName": "Valve Per Cylinder",
+                    "specValue": "4"
+                }
+            ]
+        },
+        {
+            "categoryTitle": "Transmission",
+            "categoryData": [
+                {
+                    "specName": "Transmission Type",
+                    "specValue": "Manual"
+                },
+                {
+                    "specName": "Transmission",
+                    "specValue": "Manual"
+                },
+                {
+                    "specName": "No Of Gears",
+                    "specValue": "6-Speed"
+                }
+            ]
+        }
+    ]
+}
