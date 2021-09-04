@@ -5,16 +5,16 @@
         "default": "F-TYPE 2.0 l Coupe",
         "variants": [
             {
-                "variantName": "F-TYPE 2.0 l Coupe"
+                "value": "F-TYPE 2.0 l Coupe"
             },
             {
-                "variantName": "F-TYPE 2.0 coupe R-Dynamic"
+                "value": "F-TYPE 2.0 coupe R-Dynamic"
             },
             {
-                "variantName": "F-TYPE 2.0 l coupe First Edition"
+                "value": "F-TYPE 2.0 l coupe First Edition"
             },
             {
-                "variantName": "F-TYPE 2.0 l convertible R-Dynamic"
+                "value": "F-TYPE 2.0 l convertible R-Dynamic"
             }
         ]
     },
