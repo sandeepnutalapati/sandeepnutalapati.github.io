@@ -1,4 +1,40 @@
 {
+    "vehicleTitle": "Jaguar F-TYPE",
+    "vehiclePrice": "Price :- 97.97 lakh",
+    "variantsData": {
+        "default": "F-TYPE 2.0 l Coupe",
+        "variants": [
+            {
+                "variantName": "F-TYPE 2.0 l Coupe"
+            },
+            {
+                "variantName": "F-TYPE 2.0 coupe R-Dynamic"
+            },
+            {
+                "variantName": "F-TYPE 2.0 l coupe First Edition"
+            },
+            {
+                "variantName": "F-TYPE 2.0 l convertible R-Dynamic"
+            }
+        ]
+    },
+    "imageData": [
+        {
+            "src": "https://wallpapercave.com/wp/wp1937950.jpg",
+            "alt": "Nature, United States",
+            "caption": "All the power and agility of a true thoroughbred. With state-of-the art driving systems making an unforgettable experience."
+        },
+        {
+            "src": "https://wallpapercave.com/wp/wp1937960.jpg",
+            "alt": "Somewhere Beyond, United States",
+            "caption": "F‑TYPE is Jaguar design in its most athletic form — lean, and elegant from any angle"
+        },
+        {
+            "src": "https://wallpapercave.com/wp/wp1938028.jpg",
+            "alt": "Yellowstone National Park, United States",
+            "caption": "With Jaguar’s infotainment system, you’re seamlessly connected to the rest of the world."
+        }
+    ],
     "specsShowCaseData": [
         {
             "specName": "Emission Norm Compliance",
